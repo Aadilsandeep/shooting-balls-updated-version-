@@ -1,2 +1,2 @@
-# shooting-balls-updated-version-
-this is an updated verson of the shooting balls series
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
